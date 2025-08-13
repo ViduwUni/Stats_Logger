@@ -1,0 +1,6 @@
+psutil
+pymongo
+pillow
+pystray
+python-dotenv
+pync
